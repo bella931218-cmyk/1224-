@@ -67,7 +67,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "",
+    "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
